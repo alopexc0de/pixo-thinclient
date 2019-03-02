@@ -19,7 +19,7 @@ The goal for this firmware is to expose a RESTful API, available on http(s). Thi
 
 Pixo Pixel is a 16x16 REB LED display, using an ESP32 microcontroller and a 3-axis Accelerometer + Gyro.
 
-Originally created by [Sean Hoffman](https://github.com/IdleHandsProject/pixopixel) as a Make 100, the hardware is interesting but no general purpose firmware has been created publically. I've contributed to the project a bit in the past [here](https://github.com/alopexc0de/pixopixel/tree/fw_cleanup), in the form of updating the readme and also some expansion/rewriting of example display functions.
+Originally created by [Sean Hodgens](https://github.com/IdleHandsProject/pixopixel) as a Make 100, the hardware is interesting but no general purpose firmware has been created publically. I've contributed to the project a bit in the past [here](https://github.com/alopexc0de/pixopixel/tree/fw_cleanup), in the form of updating the readme and also some expansion/rewriting of example display functions.
 
 
 ## Flashing Firmware Instructions
